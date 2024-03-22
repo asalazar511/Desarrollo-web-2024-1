@@ -1,0 +1,53 @@
+article{
+
+
+    background-color: #fafafa;
+    margin: 0;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(75, 75, 75);
+    font-family: 'arial';
+}
+p{
+    font-size: 1rem;
+    text-align: center;
+    color: rgb(161, 161, 161);
+    font-family: 'arial';
+    margin: 1.5;
+
+}
+#id1{
+    font-size: 3rem;
+    text-align: center;
+    color: gray;
+    font-family: 'arial';
+    font-weight: lighter;
+    margin: 1.5;
+
+}
+section > h3 {
+    font-family: arial;
+    color: rgb(75, 75, 75);
+
+}
+
+section > p{
+    font-size: 0.8rem;
+    text-align: left;
+    color: gray;
+    font-family: 'arial';
+    margin: 1.5;
+
+}
+
+section{
+    
+    background-color: white;
+
+}
+
+main{
+    background-image: url(https://raw.githubusercontent.com/camilocorreaUdeA/Programacion_Web_2024_1/5b0af119ada744f52ca9100f3434194112cdcb03/Frontend/evaluacion_1/images/favicon-32x32.png);
+}
